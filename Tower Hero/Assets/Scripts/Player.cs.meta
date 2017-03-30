@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 01732aceae080f14899e80f598a3712c
+timeCreated: 1463859295
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - error: {fileID: 8300000, guid: ce82bf2de0dd4494c9c8163d2b549bbd, type: 3}
+  - fullcharge: {fileID: 8300000, guid: ab598e5c378234e408313cdda9906255, type: 3}
+  - armor: {fileID: 8300000, guid: 5c28c3a8bbcb45642ab28c05d8addb3e, type: 3}
+  - options: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

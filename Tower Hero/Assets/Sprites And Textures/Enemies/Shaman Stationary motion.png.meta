@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 4f46bc52410681d46983471bf85e3b16
+timeCreated: 1462391525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shaman Stationary motion_0
+    21300002: Shaman Stationary motion_1
+    21300004: Shaman Stationary motion_2
+    21300006: Shaman Stationary motion_3
+    21300008: Shaman Stationary motion_4
+    21300010: Shaman Stationary motion_5
+    21300012: Shaman Stationary motion_6
+    21300014: Shaman Stationary motion_7
+    21300016: Shaman Stationary motion_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shaman Stationary motion_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1009
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1049
+        width: 364
+        height: 290
+      alignment: 9
+      pivot: {x: 0.50424814, y: -0.12797262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180.45367, y: 70.11206}
+        - {x: 180.45367, y: 98.11206}
+        - {x: 96.453674, y: 183.11206}
+        - {x: 78.453674, y: 322.11206}
+        - {x: 77.453674, y: 327.11206}
+        - {x: 1.4536743, y: 327.11206}
+        - {x: -67.546326, y: 262.11206}
+        - {x: -53.546326, y: 229.11206}
+        - {x: -101.546326, y: 141.11206}
+        - {x: -112.546326, y: 211.11206}
+        - {x: -155.54633, y: 232.11206}
+        - {x: -169.54633, y: 224.11206}
+        - {x: -172.54633, y: 153.11206}
+        - {x: -183.54633, y: 140.11206}
+        - {x: -183.54633, y: 50.11206}
+        - {x: -180.54633, y: 44.11206}
+        - {x: -85.546326, y: 37.11206}
+        - {x: 62.453674, y: 37.11206}
+    - name: Shaman Stationary motion_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1077
+        width: 364
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5084963, y: -0.19195914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 178.90735, y: 112.66815}
+        - {x: 92.90735, y: 201.66815}
+        - {x: 76.90735, y: 257.66815}
+        - {x: 73.90735, y: 345.66815}
+        - {x: -2.0926514, y: 345.66815}
+        - {x: -77.09265, y: 282.66815}
+        - {x: -50.09265, y: 217.66815}
+        - {x: -105.09265, y: 158.66815}
+        - {x: -119.09265, y: 228.66815}
+        - {x: -160.09265, y: 254.66815}
+        - {x: -181.09265, y: 219.66815}
+        - {x: -185.09265, y: 202.66815}
+        - {x: -185.09265, y: 74.66815}
+        - {x: -183.09265, y: 64.66815}
+        - {x: -84.09265, y: 55.66815}
+        - {x: 56.90735, y: 55.66815}
+        - {x: 176.90735, y: 89.66815}
+        - {x: 178.90735, y: 92.66815}
+    - name: Shaman Stationary motion_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 602
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 560
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_5
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 513
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 113
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    - name: Shaman Stationary motion_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 96
+        width: 364
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: 57}
+        - {x: 96, y: 146}
+        - {x: 78, y: 203}
+        - {x: 77, y: 290}
+        - {x: 1, y: 290}
+        - {x: -68, y: 225}
+        - {x: -54, y: 192}
+        - {x: -102, y: 103}
+        - {x: -116, y: 173}
+        - {x: -157, y: 199}
+        - {x: -178, y: 164}
+        - {x: -182, y: 147}
+        - {x: -182, y: 19}
+        - {x: -180, y: 9}
+        - {x: -81, y: 0}
+        - {x: 60, y: 0}
+        - {x: 180, y: 34}
+        - {x: 182, y: 37}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

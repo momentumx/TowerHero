@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 3d24d86c96c335d4588bb601a571de7d
+timeCreated: 1462373566
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Minion all copy_0
+    21300002: Minion all copy_1
+    21300004: Minion all copy_2
+    21300006: Minion all copy_3
+    21300008: Minion all copy_4
+    21300010: Minion all copy_5
+    21300012: Minion all copy_6
+    21300014: Minion all copy_7
+    21300016: Minion all copy_8
+    21300018: Minion all copy_10
+    21300020: Minion all copy_12
+    21300022: Minion all copy_13
+    21300024: Minion all copy_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Minion all copy_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 843
+        width: 169
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 130}
+        - {x: -13.5, y: 136}
+        - {x: -11.5, y: 131}
+        - {x: -8.5, y: 126}
+        - {x: 6.5, y: 110}
+        - {x: 15.5, y: 74}
+        - {x: 61.5, y: 0}
+        - {x: 84.5, y: 0}
+        - {x: 84.5, y: 289}
+        - {x: -14.5, y: 289}
+        - {x: -84.5, y: 166}
+        - {x: -84.5, y: 1}
+        - {x: -80.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 36.5, y: 2}
+        - {x: 20.5, y: 36}
+        - {x: -6.5, y: 124}
+    - name: Minion all copy_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 847
+        width: 182
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 281}
+        - {x: -24, y: 281}
+        - {x: -91, y: 185}
+        - {x: -91, y: 0}
+        - {x: 56, y: 0}
+        - {x: 91, y: 41}
+        - {x: 91, y: 208}
+        - {x: 83, y: 273}
+    - name: Minion all copy_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 838
+        width: 155
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 284}
+        - {x: 29.5, y: 284}
+        - {x: 11.5, y: 268}
+        - {x: 7.5, y: 261}
+        - {x: -42.5, y: 177}
+        - {x: -67.5, y: 96}
+        - {x: -52.5, y: 72}
+        - {x: -48.5, y: 75}
+        - {x: -45.5, y: 78}
+        - {x: -44.5, y: 82}
+        - {x: -45.5, y: 78}
+        - {x: -51.5, y: 71}
+        - {x: -72.5, y: 61}
+        - {x: -77.5, y: 44}
+        - {x: -77.5, y: 23}
+        - {x: -63.5, y: 9}
+        - {x: -42.5, y: 13}
+        - {x: -44.5, y: 31}
+        - {x: -34.5, y: 4}
+        - {x: -31.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 25.5, y: 1}
+        - {x: 60.5, y: 78}
+        - {x: 77.5, y: 194}
+        - {x: 77.5, y: 266}
+    - name: Minion all copy_3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 827
+        width: 215
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 298}
+        - {x: -107.5, y: 169}
+        - {x: -107.5, y: 0}
+        - {x: -91.5, y: 0}
+        - {x: -64.5, y: 5}
+        - {x: -27.5, y: 63}
+        - {x: 31.5, y: 0}
+        - {x: 107.5, y: 0}
+        - {x: 107.5, y: 298}
+    - name: Minion all copy_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 836
+        width: 201
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 12}
+        - {x: 100.5, y: 104}
+        - {x: 100.5, y: 194}
+        - {x: 86.5, y: 212}
+        - {x: 69.5, y: 211}
+        - {x: 67.5, y: 209}
+        - {x: 80.5, y: 245}
+        - {x: 67.5, y: 295}
+        - {x: -8.5, y: 295}
+        - {x: -70.5, y: 183}
+        - {x: -100.5, y: 120}
+        - {x: -100.5, y: 75}
+        - {x: -91.5, y: 65}
+        - {x: -78.5, y: 70}
+        - {x: -70.5, y: 74}
+        - {x: -68.5, y: 78}
+        - {x: -59.5, y: 80}
+        - {x: -61.5, y: 91}
+        - {x: -56.5, y: 96}
+        - {x: -66.5, y: 112}
+        - {x: -48.5, y: 117}
+        - {x: -59.5, y: 84}
+        - {x: -59.5, y: 79}
+        - {x: -65.5, y: 78}
+        - {x: -68.5, y: 76}
+        - {x: -75.5, y: 66}
+        - {x: -77.5, y: 64}
+        - {x: -100.5, y: 38}
+        - {x: -100.5, y: 5}
+        - {x: -92.5, y: 0}
+        - {x: -62.5, y: 0}
+        - {x: -58.5, y: 12}
+        - {x: -37.5, y: 60}
+        - {x: 42.5, y: 1}
+    - name: Minion all copy_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 456
+        width: 207
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 289}
+        - {x: -76.5, y: 277}
+        - {x: -103.5, y: 124}
+        - {x: -103.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 103.5, y: 118}
+        - {x: 103.5, y: 240}
+        - {x: 46.5, y: 289}
+      - - {x: -42.5, y: 9}
+        - {x: -38.5, y: 5}
+        - {x: -35.5, y: 6}
+        - {x: -35.5, y: 8}
+        - {x: -39.5, y: 12}
+        - {x: -41.5, y: 12}
+    - name: Minion all copy_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 455
+        width: 190
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 291}
+        - {x: -44, y: 291}
+        - {x: -95, y: 122}
+        - {x: -95, y: 0}
+        - {x: 20, y: 0}
+        - {x: 24, y: 13}
+        - {x: -19, y: 129}
+        - {x: 95, y: 220}
+    - name: Minion all copy_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 453
+        width: 146
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 355}
+        - {x: -57, y: 247}
+        - {x: -73, y: 105}
+        - {x: -73, y: 0}
+        - {x: -36, y: 0}
+        - {x: -13, y: 62}
+        - {x: -12, y: 65}
+        - {x: -6, y: 4}
+        - {x: -5, y: 0}
+        - {x: 73, y: 0}
+        - {x: 73, y: 341}
+        - {x: 55, y: 355}
+    - name: Minion all copy_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 444
+        width: 242
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 290}
+        - {x: -50, y: 290}
+        - {x: -121, y: 186}
+        - {x: -121, y: 0}
+        - {x: 15, y: 0}
+        - {x: 90, y: 134}
+        - {x: 90, y: 155}
+        - {x: 89, y: 156}
+      - - {x: 64, y: 117}
+        - {x: 64, y: 107}
+        - {x: 69, y: 81}
+        - {x: 75, y: 81}
+        - {x: 75, y: 115}
+        - {x: 71, y: 117}
+      - - {x: 113, y: 132}
+        - {x: 118, y: 132}
+        - {x: 118, y: 167}
+        - {x: 92, y: 271}
+        - {x: 62, y: 287}
+        - {x: 51, y: 287}
+        - {x: 51, y: 281}
+      - - {x: 21, y: 208}
+        - {x: 21, y: 202}
+        - {x: 49, y: 151}
+        - {x: 54, y: 147}
+        - {x: 57, y: 147}
+        - {x: 57, y: 163}
+        - {x: 39, y: 208}
+    - name: Minion all copy_10
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 448
+        width: 185
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 134}
+        - {x: -20.5, y: 130}
+        - {x: -16.5, y: 126}
+        - {x: -13.5, y: 118}
+        - {x: 62.5, y: 0}
+        - {x: 65.5, y: 0}
+        - {x: 77.5, y: 47}
+        - {x: 77.5, y: 290}
+        - {x: -21.5, y: 290}
+        - {x: -68.5, y: 188}
+        - {x: -92.5, y: 58}
+        - {x: -92.5, y: 0}
+        - {x: -59.5, y: 0}
+        - {x: -57.5, y: 10}
+        - {x: -37.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: -16.5, y: 123}
+        - {x: -18.5, y: 127}
+        - {x: -22.5, y: 131}
+      - - {x: 51.5, y: 68}
+        - {x: 48.5, y: 60}
+        - {x: 48.5, y: 44}
+        - {x: 56.5, y: 44}
+        - {x: 58.5, y: 58}
+        - {x: 58.5, y: 68}
+      - - {x: 83.5, y: 197}
+        - {x: 83.5, y: 74}
+        - {x: 92.5, y: 74}
+        - {x: 92.5, y: 197}
+      - - {x: 47.5, y: 176}
+        - {x: 47.5, y: 145}
+        - {x: 48.5, y: 137}
+        - {x: 55.5, y: 137}
+        - {x: 55.5, y: 173}
+        - {x: 51.5, y: 176}
+    - name: Minion all copy_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 210
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 125}
+        - {x: 9, y: 120}
+        - {x: 12, y: 115}
+        - {x: 27, y: 99}
+        - {x: 43, y: 68}
+        - {x: 50, y: 53}
+        - {x: 105, y: 52}
+        - {x: 105, y: 278}
+        - {x: -31, y: 278}
+        - {x: -105, y: 134}
+        - {x: -105, y: 2}
+        - {x: -101, y: 0}
+        - {x: -23, y: 0}
+        - {x: 21, y: 76}
+        - {x: 14, y: 113}
+        - {x: 9, y: 119}
+    - name: Minion all copy_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 103
+        width: 210
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 71}
+        - {x: 9, y: 66}
+        - {x: 12, y: 61}
+        - {x: 46, y: 0}
+        - {x: 81, y: 0}
+        - {x: 102, y: 3}
+        - {x: 105, y: 5}
+        - {x: 105, y: 118}
+        - {x: 91, y: 218}
+        - {x: 89, y: 224}
+        - {x: -8, y: 224}
+        - {x: -77, y: 168}
+        - {x: -105, y: 85}
+        - {x: -105, y: 8}
+        - {x: -102, y: 0}
+        - {x: 24, y: 0}
+        - {x: 23, y: 33}
+        - {x: 14, y: 59}
+        - {x: 9, y: 65}
+    - name: Minion all copy_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 83
+        width: 293
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 102}
+        - {x: -146.5, y: 20}
+        - {x: -145.5, y: 14}
+        - {x: -26.5, y: 0}
+        - {x: 130.5, y: 0}
+        - {x: 146.5, y: 10}
+        - {x: 146.5, y: 70}
+        - {x: 141.5, y: 82}
+        - {x: 98.5, y: 102}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

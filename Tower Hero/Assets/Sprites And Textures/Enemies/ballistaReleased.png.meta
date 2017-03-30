@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 79955becef88a894a93475463842178a
+timeCreated: 1463473491
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ballistaReleased_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ballistaReleased_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 500
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 242, y: 115}
+        - {x: 250, y: 154}
+        - {x: 250, y: 227}
+        - {x: 208, y: 262}
+        - {x: 128, y: 283}
+        - {x: 102, y: 290}
+        - {x: 22, y: 290}
+        - {x: -17, y: 267}
+        - {x: 1, y: 256}
+        - {x: -56, y: 201}
+        - {x: -53, y: 188}
+        - {x: -31, y: 170}
+        - {x: -247, y: 57}
+        - {x: -250, y: 45}
+        - {x: -250, y: 2}
+        - {x: -239, y: 0}
+        - {x: -214, y: 0}
+        - {x: 0, y: 98}
+        - {x: 38, y: 77}
+        - {x: 133, y: 64}
+      - - {x: -20, y: 222}
+        - {x: -17, y: 223}
+        - {x: -17, y: 226}
+        - {x: -20, y: 227}
+        - {x: -22, y: 225}
+      - - {x: 120, y: 317}
+        - {x: 119, y: 316}
+        - {x: 119, y: 314}
+        - {x: 121, y: 312}
+        - {x: 125, y: 312}
+        - {x: 127, y: 314}
+        - {x: 127, y: 316}
+        - {x: 126, y: 317}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

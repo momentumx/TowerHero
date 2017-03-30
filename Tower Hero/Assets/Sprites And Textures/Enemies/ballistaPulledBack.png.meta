@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: bc1b4621417511c49a0d7d85998af7d3
+timeCreated: 1463473532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ballistaPulledBack_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ballistaPulledBack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 500
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 142}
+        - {x: 102, y: 144}
+        - {x: 115, y: 117}
+        - {x: 166, y: 115}
+        - {x: 250, y: 178}
+        - {x: 250, y: 247}
+        - {x: 208, y: 227}
+        - {x: 199, y: 301}
+        - {x: 137, y: 314}
+        - {x: 58, y: 314}
+        - {x: 15, y: 310}
+        - {x: -114, y: 164}
+        - {x: -186, y: 135}
+        - {x: -202, y: 131}
+        - {x: -250, y: 114}
+        - {x: -250, y: 19}
+        - {x: -200, y: 0}
+        - {x: -144, y: 0}
+        - {x: -109, y: 45}
+        - {x: -118, y: 63}
+        - {x: 11, y: 139}
+      - - {x: 113, y: 344}
+        - {x: 113, y: 342}
+        - {x: 115, y: 340}
+        - {x: 118, y: 340}
+        - {x: 121, y: 343}
+        - {x: 121, y: 344}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

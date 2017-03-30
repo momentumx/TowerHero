@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 8cdde4dc0b1c86a409abd7f7b28fadc3
+timeCreated: 1457903718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Princess Fury - Barbarian Boss_0
+    21300002: Mobile - Princess Fury - Barbarian Boss_1
+    21300004: Mobile - Princess Fury - Barbarian Boss_2
+    21300006: Mobile - Princess Fury - Barbarian Boss_3
+    21300008: Mobile - Princess Fury - Barbarian Boss_4
+    21300010: Mobile - Princess Fury - Barbarian Boss_5
+    21300012: Mobile - Princess Fury - Barbarian Boss_6
+    21300014: Mobile - Princess Fury - Barbarian Boss_7
+    21300016: Mobile - Princess Fury - Barbarian Boss_8
+    21300018: Mobile - Princess Fury - Barbarian Boss_9
+    21300020: Mobile - Princess Fury - Barbarian Boss_10
+    21300022: Mobile - Princess Fury - Barbarian Boss_11
+    21300024: Mobile - Princess Fury - Barbarian Boss_12
+    21300026: Mobile - Princess Fury - Barbarian Boss_13
+    21300028: Mobile - Princess Fury - Barbarian Boss_14
+    21300030: Mobile - Princess Fury - Barbarian Boss_15
+    21300032: Mobile - Princess Fury - Barbarian Boss_16
+    21300034: Mobile - Princess Fury - Barbarian Boss_17
+    21300036: Mobile - Princess Fury - Barbarian Boss_18
+    21300038: Mobile - Princess Fury - Barbarian Boss_19
+    21300040: Mobile - Princess Fury - Barbarian Boss_20
+    21300042: Mobile - Princess Fury - Barbarian Boss_21
+    21300044: Mobile - Princess Fury - Barbarian Boss_22
+    21300046: Mobile - Princess Fury - Barbarian Boss_23
+    21300048: Mobile - Princess Fury - Barbarian Boss_24
+    21300050: Mobile - Princess Fury - Barbarian Boss_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mobile - Princess Fury - Barbarian Boss_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 832
+        width: 81
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 171}
+        - {x: -40.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 40.5, y: 3}
+        - {x: 40.5, y: 171}
+    - name: Mobile - Princess Fury - Barbarian Boss_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 832
+        width: 82
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 165}
+        - {x: -41, y: 158}
+        - {x: -41, y: 0}
+        - {x: 34, y: 0}
+        - {x: 41, y: 3}
+        - {x: 41, y: 157}
+        - {x: 30, y: 165}
+    - name: Mobile - Princess Fury - Barbarian Boss_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 832
+        width: 107
+        height: 170
+      alignment: 9
+      pivot: {x: 0.68368703, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.15451, y: 170}
+        - {x: -73.15451, y: 166}
+        - {x: -73.15451, y: 64}
+        - {x: -47.15451, y: 0}
+        - {x: 28.84549, y: 0}
+        - {x: 33.84549, y: 1}
+        - {x: 33.84549, y: 162}
+        - {x: 25.84549, y: 170}
+    - name: Mobile - Princess Fury - Barbarian Boss_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 832
+        width: 136
+        height: 170
+      alignment: 9
+      pivot: {x: 0.7569221, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.94141, y: 170}
+        - {x: -102.94141, y: 164}
+        - {x: -102.94141, y: 73}
+        - {x: -75.94141, y: 0}
+        - {x: 33.058594, y: 0}
+        - {x: 33.058594, y: 82}
+        - {x: -8.941406, y: 170}
+    - name: Mobile - Princess Fury - Barbarian Boss_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 832
+        width: 139
+        height: 104
+      alignment: 9
+      pivot: {x: 0.2957566, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.88983, y: 104}
+        - {x: -24.110168, y: 104}
+        - {x: -41.11017, y: 57}
+        - {x: -41.11017, y: 8}
+        - {x: -31.110168, y: 0}
+        - {x: 25.889832, y: 0}
+        - {x: 40.88983, y: 8}
+        - {x: 94.88983, y: 46}
+        - {x: 97.88983, y: 56}
+    - name: Mobile - Princess Fury - Barbarian Boss_5
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 832
+        width: 83
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 96}
+        - {x: -41.5, y: 73}
+        - {x: -41.5, y: 8}
+        - {x: -29.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 41.5, y: 96}
+    - name: Mobile - Princess Fury - Barbarian Boss_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 692
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6819862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.6545105, y: 113}
+        - {x: -41.65451, y: 113}
+        - {x: -58.65451, y: 103}
+        - {x: -73.65451, y: 64}
+        - {x: -73.65451, y: 19}
+        - {x: -40.65451, y: 0}
+        - {x: 29.34549, y: 0}
+        - {x: 34.34549, y: 5}
+        - {x: 34.34549, y: 37}
+        - {x: 17.34549, y: 108}
+    - name: Mobile - Princess Fury - Barbarian Boss_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 692
+        width: 155
+        height: 114
+      alignment: 9
+      pivot: {x: 0.27457178, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.558624, y: 114}
+        - {x: -42.558624, y: 0}
+        - {x: 48.441376, y: 0}
+        - {x: 57.441376, y: 4}
+        - {x: 112.441376, y: 52}
+        - {x: 112.441376, y: 93}
+        - {x: 109.441376, y: 114}
+    - name: Mobile - Princess Fury - Barbarian Boss_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 692
+        width: 80
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 113}
+        - {x: -40, y: 87}
+        - {x: -40, y: 17}
+        - {x: -33, y: 0}
+        - {x: 32, y: 0}
+        - {x: 40, y: 6}
+        - {x: 40, y: 109}
+        - {x: 38, y: 113}
+    - name: Mobile - Princess Fury - Barbarian Boss_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 688
+        width: 163
+        height: 116
+      alignment: 9
+      pivot: {x: 0.7679552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.176697, y: 116}
+        - {x: -72.1767, y: 106}
+        - {x: -125.1767, y: 84}
+        - {x: -125.1767, y: 30}
+        - {x: -30.176697, y: 0}
+        - {x: 37.823303, y: 0}
+        - {x: 37.823303, y: 95}
+        - {x: 20.823303, y: 116}
+    - name: Mobile - Princess Fury - Barbarian Boss_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 500
+        width: 147
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7674082, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.809006, y: 140}
+        - {x: -112.809006, y: 80}
+        - {x: -44.809006, y: 0}
+        - {x: 30.190994, y: 0}
+        - {x: 34.190994, y: 1}
+        - {x: 34.190994, y: 91}
+        - {x: 32.190994, y: 102}
+        - {x: -44.809006, y: 144}
+        - {x: -110.809006, y: 144}
+    - name: Mobile - Princess Fury - Barbarian Boss_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 496
+        width: 164
+        height: 155
+      alignment: 9
+      pivot: {x: 0.7929535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.044373, y: 155}
+        - {x: -125.04437, y: 155}
+        - {x: -130.04437, y: 151}
+        - {x: -130.04437, y: 75}
+        - {x: -66.04437, y: 0}
+        - {x: 33.955627, y: 0}
+        - {x: 33.955627, y: 73}
+        - {x: 26.955627, y: 107}
+    - name: Mobile - Princess Fury - Barbarian Boss_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 496
+        width: 84
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 169}
+        - {x: -42, y: 157}
+        - {x: -42, y: 8}
+        - {x: -36, y: 0}
+        - {x: 33, y: 0}
+        - {x: 42, y: 4}
+        - {x: 42, y: 169}
+    - name: Mobile - Princess Fury - Barbarian Boss_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 494
+        width: 151
+        height: 145
+      alignment: 9
+      pivot: {x: 0.31198746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.88989, y: 137}
+        - {x: 32.889893, y: 145}
+        - {x: -0.11010742, y: 145}
+        - {x: 0.8898926, y: 143}
+        - {x: -47.110107, y: 116}
+        - {x: -47.110107, y: 2}
+        - {x: -30.110107, y: 0}
+        - {x: 25.889893, y: 0}
+        - {x: 31.889893, y: 15}
+        - {x: 30.889893, y: 25}
+        - {x: 63.889893, y: 0}
+        - {x: 98.88989, y: 0}
+        - {x: 103.88989, y: 16}
+        - {x: 103.88989, y: 69}
+        - {x: 97.88989, y: 81}
+    - name: Mobile - Princess Fury - Barbarian Boss_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 496
+        width: 80
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 108}
+        - {x: -40, y: 104}
+        - {x: -40, y: 3}
+        - {x: -26, y: 0}
+        - {x: 29, y: 0}
+        - {x: 40, y: 5}
+        - {x: 40, y: 91}
+        - {x: 9, y: 108}
+    - name: Mobile - Princess Fury - Barbarian Boss_15
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 494
+        width: 150
+        height: 105
+      alignment: 9
+      pivot: {x: 0.2816162, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.24243, y: 105}
+        - {x: -42.24243, y: 1}
+        - {x: -29.242432, y: 0}
+        - {x: 29.757568, y: 0}
+        - {x: 35.75757, y: 15}
+        - {x: 34.75757, y: 25}
+        - {x: 67.75757, y: 0}
+        - {x: 97.75757, y: 0}
+        - {x: 107.75757, y: 19}
+        - {x: 107.75757, y: 104}
+        - {x: 104.75757, y: 105}
+    - name: Mobile - Princess Fury - Barbarian Boss_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 133
+        height: 125
+      alignment: 9
+      pivot: {x: 0.401481, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.603027, y: 31}
+        - {x: 27.603027, y: 34}
+        - {x: 48.603027, y: 11}
+        - {x: 77.60303, y: 12}
+        - {x: 79.60303, y: 16}
+        - {x: 79.60303, y: 99}
+        - {x: 42.603027, y: 125}
+        - {x: -36.396973, y: 125}
+        - {x: -52.396973, y: 82}
+        - {x: -52.396973, y: 15}
+        - {x: -45.396973, y: 7}
+        - {x: -29.396973, y: 0}
+        - {x: 25.603027, y: 0}
+        - {x: 37.603027, y: 10}
+        - {x: 36.603027, y: 20}
+        - {x: 30.603027, y: 26}
+    - name: Mobile - Princess Fury - Barbarian Boss_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 352
+        width: 129
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3137815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.522186, y: 114}
+        - {x: 24.522186, y: 99}
+        - {x: 23.522186, y: 110}
+        - {x: 5.5221863, y: 120}
+        - {x: -38.477814, y: 120}
+        - {x: -40.477814, y: 110}
+        - {x: -40.477814, y: 0}
+        - {x: 70.52219, y: 0}
+        - {x: 88.52219, y: 15}
+        - {x: 88.52219, y: 88}
+        - {x: 62.522186, y: 117}
+    - name: Mobile - Princess Fury - Barbarian Boss_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 352
+        width: 143
+        height: 122
+      alignment: 9
+      pivot: {x: 0.31674087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.293945, y: 122}
+        - {x: -45.293945, y: 63}
+        - {x: -45.293945, y: 2}
+        - {x: -42.293945, y: 0}
+        - {x: 94.706055, y: 0}
+        - {x: 97.706055, y: 11}
+        - {x: 97.706055, y: 122}
+    - name: Mobile - Princess Fury - Barbarian Boss_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 351
+        width: 128
+        height: 121
+      alignment: 9
+      pivot: {x: 0.32938814, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.838318, y: 18}
+        - {x: 78.83832, y: 23}
+        - {x: 85.83832, y: 29}
+        - {x: 85.83832, y: 88}
+        - {x: 50.838318, y: 119}
+        - {x: 17.838318, y: 101}
+        - {x: 24.838318, y: 74}
+        - {x: 8.838318, y: 121}
+        - {x: -27.161682, y: 121}
+        - {x: -42.161682, y: 86}
+        - {x: -42.161682, y: 0}
+        - {x: 22.838318, y: 0}
+        - {x: 34.838318, y: 10}
+        - {x: 34.838318, y: 21}
+        - {x: 21.838318, y: 31}
+    - name: Mobile - Princess Fury - Barbarian Boss_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 200
+        width: 131
+        height: 127
+      alignment: 9
+      pivot: {x: 0.3833066, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.786835, y: 15}
+        - {x: 80.786835, y: 23}
+        - {x: 80.786835, y: 86}
+        - {x: 52.786835, y: 111}
+        - {x: 27.786835, y: 105}
+        - {x: 22.786835, y: 97}
+        - {x: 20.786835, y: 91}
+        - {x: 21.786835, y: 87}
+        - {x: 22.786835, y: 84}
+        - {x: 10.786835, y: 59}
+        - {x: 19.786835, y: 102}
+        - {x: 0.7868347, y: 127}
+        - {x: -33.213165, y: 127}
+        - {x: -50.213165, y: 75}
+        - {x: -50.213165, y: 9}
+        - {x: -41.213165, y: 0}
+        - {x: 21.786835, y: 0}
+        - {x: 44.786835, y: 8}
+        - {x: 34.786835, y: 23}
+        - {x: 18.786835, y: 35}
+        - {x: 49.786835, y: 13}
+    - name: Mobile - Princess Fury - Barbarian Boss_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 200
+        width: 132
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 123}
+        - {x: -35, y: 123}
+        - {x: -66, y: 45}
+        - {x: -66, y: 16}
+        - {x: -37, y: 0}
+        - {x: 56, y: 0}
+        - {x: 66, y: 14}
+        - {x: 66, y: 102}
+        - {x: 64, y: 108}
+    - name: Mobile - Princess Fury - Barbarian Boss_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 191
+        width: 131
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 128}
+        - {x: -41.5, y: 128}
+        - {x: -65.5, y: 63}
+        - {x: -65.5, y: 21}
+        - {x: -18.5, y: 0}
+        - {x: 63.5, y: 0}
+        - {x: 65.5, y: 15}
+        - {x: 65.5, y: 77}
+        - {x: 50.5, y: 117}
+    - name: Mobile - Princess Fury - Barbarian Boss_23
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 200
+        width: 131
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 122}
+        - {x: -65.5, y: 88}
+        - {x: -65.5, y: 17}
+        - {x: -38.5, y: 0}
+        - {x: 65.5, y: 0}
+        - {x: 65.5, y: 91}
+        - {x: 25.5, y: 122}
+    - name: Mobile - Princess Fury - Barbarian Boss_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 17
+        width: 81
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 169}
+        - {x: -40.5, y: 157}
+        - {x: -40.5, y: 6}
+        - {x: -39.5, y: 0}
+        - {x: 40.5, y: 0}
+        - {x: 40.5, y: 169}
+    - name: Mobile - Princess Fury - Barbarian Boss_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 16
+        width: 93
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6174103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.580841, y: 132}
+        - {x: -48.41916, y: 132}
+        - {x: -57.41916, y: 98}
+        - {x: -57.41916, y: 0}
+        - {x: 35.58084, y: 0}
+        - {x: 35.58084, y: 61}
+        - {x: 20.580841, y: 120}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

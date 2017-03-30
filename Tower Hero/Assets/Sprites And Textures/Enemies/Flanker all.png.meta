@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 27c298bb67414eb41a64a2e62adcbaf0
+timeCreated: 1462822715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flanker all_0
+    21300002: Flanker all_1
+    21300004: Flanker all_2
+    21300006: Flanker all_3
+    21300008: Flanker all_4
+    21300010: Flanker all_5
+    21300012: Flanker all_6
+    21300014: Flanker all_7
+    21300016: Flanker all_8
+    21300018: Flanker all_9
+    21300020: Flanker all_10
+    21300022: Flanker all_11
+    21300024: Flanker all_12
+    21300026: Flanker all_13
+    21300028: Flanker all_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flanker all_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1041
+        width: 218
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 16}
+        - {x: 109, y: 55}
+        - {x: 86, y: 141}
+        - {x: 70, y: 162}
+        - {x: 65, y: 178}
+        - {x: 77, y: 153}
+        - {x: 84, y: 143}
+        - {x: 107, y: 154}
+        - {x: 109, y: 155}
+        - {x: 109, y: 391}
+        - {x: -47, y: 391}
+        - {x: -109, y: 229}
+        - {x: -109, y: 40}
+        - {x: -102, y: 32}
+        - {x: -98, y: 31}
+        - {x: -45, y: 7}
+        - {x: -28, y: 0}
+        - {x: 15, y: 0}
+        - {x: 24, y: 10}
+        - {x: 15, y: 45}
+        - {x: 59, y: 3}
+    - name: Flanker all_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1050
+        width: 214
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 10}
+        - {x: 107, y: 19}
+        - {x: 88, y: 124}
+        - {x: 80, y: 135}
+        - {x: 69, y: 166}
+        - {x: 76, y: 146}
+        - {x: 81, y: 138}
+        - {x: 82, y: 137}
+        - {x: 91, y: 134}
+        - {x: 107, y: 138}
+        - {x: 107, y: 380}
+        - {x: 29, y: 380}
+        - {x: -1, y: 357}
+        - {x: -107, y: 110}
+        - {x: -107, y: 23}
+        - {x: -101, y: 22}
+        - {x: -53, y: 0}
+        - {x: 13, y: 0}
+        - {x: 31, y: 8}
+        - {x: 84, y: 9}
+        - {x: 87, y: 12}
+        - {x: 87, y: 13}
+    - name: Flanker all_2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1078
+        width: 271
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 38}
+        - {x: 62.5, y: 0}
+        - {x: 120.5, y: 0}
+        - {x: 135.5, y: 13}
+        - {x: 135.5, y: 45}
+        - {x: 74.5, y: 212}
+        - {x: 102.5, y: 360}
+        - {x: -12.5, y: 360}
+        - {x: -135.5, y: 208}
+        - {x: -135.5, y: 0}
+        - {x: -128.5, y: 0}
+        - {x: -127.5, y: 1}
+        - {x: -88.5, y: 31}
+        - {x: -88.5, y: 35}
+    - name: Flanker all_3
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1082
+        width: 371
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150.5, y: 35}
+        - {x: 175.5, y: 49}
+        - {x: 185.5, y: 57}
+        - {x: 185.5, y: 144}
+        - {x: 153.5, y: 230}
+        - {x: 95.5, y: 357}
+        - {x: -22.5, y: 357}
+        - {x: -38.5, y: 334}
+        - {x: -185.5, y: 209}
+        - {x: -185.5, y: 58}
+        - {x: -152.5, y: 0}
+        - {x: -64.5, y: 0}
+        - {x: 64.5, y: 118}
+        - {x: 64.5, y: 126}
+        - {x: 65.5, y: 119}
+    - name: Flanker all_4
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1083
+        width: 271
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 38}
+        - {x: 62.5, y: 0}
+        - {x: 120.5, y: 0}
+        - {x: 135.5, y: 13}
+        - {x: 135.5, y: 45}
+        - {x: 74.5, y: 212}
+        - {x: 102.5, y: 360}
+        - {x: -12.5, y: 360}
+        - {x: -135.5, y: 208}
+        - {x: -135.5, y: 0}
+        - {x: -128.5, y: 0}
+        - {x: -127.5, y: 1}
+        - {x: -88.5, y: 31}
+        - {x: -88.5, y: 35}
+    - name: Flanker all_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 574
+        width: 271
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 38}
+        - {x: 62.5, y: 0}
+        - {x: 120.5, y: 0}
+        - {x: 135.5, y: 13}
+        - {x: 135.5, y: 45}
+        - {x: 74.5, y: 212}
+        - {x: 102.5, y: 360}
+        - {x: -12.5, y: 360}
+        - {x: -135.5, y: 208}
+        - {x: -135.5, y: 0}
+        - {x: -128.5, y: 0}
+        - {x: -127.5, y: 1}
+        - {x: -88.5, y: 31}
+        - {x: -88.5, y: 35}
+    - name: Flanker all_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 371
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 120}
+        - {x: 140.5, y: 46}
+        - {x: 169.5, y: 48}
+        - {x: 185.5, y: 68}
+        - {x: 185.5, y: 88}
+        - {x: 173.5, y: 106}
+        - {x: 74.5, y: 357}
+        - {x: -42.5, y: 357}
+        - {x: -181.5, y: 187}
+        - {x: -185.5, y: 170}
+        - {x: -185.5, y: 71}
+        - {x: -149.5, y: 0}
+        - {x: -64.5, y: 0}
+        - {x: 64.5, y: 118}
+        - {x: 64.5, y: 126}
+        - {x: 64.5, y: 124}
+    - name: Flanker all_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 543
+        width: 316
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158, y: 64}
+        - {x: 139, y: 139}
+        - {x: 125, y: 149}
+        - {x: 123, y: 160}
+        - {x: 117, y: 184}
+        - {x: 107, y: 203}
+        - {x: 120, y: 182}
+        - {x: 127, y: 149}
+        - {x: 146, y: 139}
+        - {x: 158, y: 165}
+        - {x: 158, y: 392}
+        - {x: 53, y: 392}
+        - {x: -158, y: 224}
+        - {x: -158, y: 148}
+        - {x: -103, y: 156}
+        - {x: 5, y: 3}
+        - {x: 16, y: 0}
+        - {x: 65, y: 0}
+        - {x: 78, y: 26}
+        - {x: 147, y: 10}
+        - {x: 158, y: 17}
+    - name: Flanker all_8
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 549
+        width: 221
+        height: 521
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.5, y: 70}
+        - {x: 91.5, y: 140}
+        - {x: 77.5, y: 149}
+        - {x: 75.5, y: 160}
+        - {x: 69.5, y: 184}
+        - {x: 63.5, y: 197}
+        - {x: 70.5, y: 187}
+        - {x: 77.5, y: 158}
+        - {x: 82.5, y: 148}
+        - {x: 91.5, y: 145}
+        - {x: 110.5, y: 153}
+        - {x: 110.5, y: 392}
+        - {x: 42.5, y: 407}
+        - {x: 7.5, y: 367}
+        - {x: 9.5, y: 362}
+        - {x: 36.5, y: 338}
+        - {x: -3.5, y: 367}
+        - {x: -6.5, y: 401}
+        - {x: -56.5, y: 501}
+        - {x: -89.5, y: 521}
+        - {x: -110.5, y: 521}
+        - {x: -110.5, y: 470}
+        - {x: -32.5, y: 8}
+        - {x: -22.5, y: 0}
+        - {x: 110.5, y: 0}
+    - name: Flanker all_9
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 546
+        width: 315
+        height: 451
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 203}
+        - {x: -66.5, y: 198}
+        - {x: -55.5, y: 183}
+        - {x: -51.5, y: 158}
+        - {x: -46.5, y: 148}
+        - {x: -37.5, y: 145}
+        - {x: -1.5, y: 145}
+        - {x: 157.5, y: 383}
+        - {x: 157.5, y: 451}
+        - {x: 110.5, y: 451}
+        - {x: 27.5, y: 381}
+        - {x: -65.5, y: 406}
+        - {x: -157.5, y: 387}
+        - {x: -157.5, y: 0}
+        - {x: -28.5, y: 0}
+        - {x: 14.5, y: 20}
+        - {x: -39.5, y: 138}
+        - {x: -52.5, y: 156}
+        - {x: -58.5, y: 185}
+    - name: Flanker all_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 181
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.5, y: 178}
+        - {x: 61.5, y: 385}
+        - {x: 43.5, y: 390}
+        - {x: -30.5, y: 390}
+        - {x: -59.5, y: 366}
+        - {x: -86.5, y: 118}
+        - {x: -90.5, y: 69}
+        - {x: -90.5, y: 0}
+        - {x: -13.5, y: 0}
+        - {x: 69.5, y: 21}
+        - {x: 90.5, y: 12}
+        - {x: 90.5, y: 131}
+    - name: Flanker all_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 67
+        width: 218
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 16}
+        - {x: 109, y: 55}
+        - {x: 86, y: 141}
+        - {x: 70, y: 162}
+        - {x: 65, y: 178}
+        - {x: 77, y: 153}
+        - {x: 84, y: 143}
+        - {x: 107, y: 154}
+        - {x: 109, y: 155}
+        - {x: 109, y: 391}
+        - {x: -47, y: 391}
+        - {x: -109, y: 229}
+        - {x: -109, y: 40}
+        - {x: -102, y: 32}
+        - {x: -98, y: 31}
+        - {x: -45, y: 7}
+        - {x: -28, y: 0}
+        - {x: 15, y: 0}
+        - {x: 24, y: 10}
+        - {x: 15, y: 45}
+        - {x: 59, y: 3}
+    - name: Flanker all_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 77
+        width: 218
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 16}
+        - {x: 109, y: 55}
+        - {x: 86, y: 141}
+        - {x: 70, y: 162}
+        - {x: 65, y: 178}
+        - {x: 77, y: 153}
+        - {x: 84, y: 143}
+        - {x: 107, y: 154}
+        - {x: 109, y: 155}
+        - {x: 109, y: 391}
+        - {x: -47, y: 391}
+        - {x: -109, y: 229}
+        - {x: -109, y: 40}
+        - {x: -102, y: 32}
+        - {x: -98, y: 31}
+        - {x: -45, y: 7}
+        - {x: -28, y: 0}
+        - {x: 15, y: 0}
+        - {x: 24, y: 10}
+        - {x: 15, y: 45}
+        - {x: 59, y: 3}
+    - name: Flanker all_13
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 93
+        width: 294
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 92}
+        - {x: 114, y: 59}
+        - {x: 117, y: 37}
+        - {x: 140, y: 10}
+        - {x: 147, y: 39}
+        - {x: 147, y: 275}
+        - {x: 91, y: 275}
+        - {x: 37, y: 254}
+        - {x: -139, y: 64}
+        - {x: -147, y: 32}
+        - {x: -147, y: 1}
+        - {x: -100, y: 10}
+        - {x: -94, y: 18}
+        - {x: -96, y: 21}
+        - {x: -76, y: 42}
+        - {x: -69, y: 49}
+        - {x: -9, y: 93}
+        - {x: -68, y: 50}
+        - {x: -74, y: 43}
+        - {x: -77, y: 33}
+        - {x: -81, y: 17}
+        - {x: -78, y: 0}
+        - {x: -15, y: 0}
+        - {x: 42, y: 5}
+        - {x: 122, y: 21}
+        - {x: 118, y: 33}
+        - {x: 102, y: 79}
+    - name: Flanker all_14
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 110
+        width: 395
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 152}
+        - {x: -168.5, y: 152}
+        - {x: -197.5, y: 142}
+        - {x: -197.5, y: 130}
+        - {x: -196.5, y: 128}
+        - {x: -165.5, y: 105}
+        - {x: -182.5, y: 75}
+        - {x: -197.5, y: 44}
+        - {x: -197.5, y: 9}
+        - {x: -138.5, y: 0}
+        - {x: 178.5, y: 0}
+        - {x: 197.5, y: 16}
+        - {x: 197.5, y: 118}
+        - {x: 82.5, y: 146}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: d82d7492eb4397f41bedab6a62795bc1
+timeCreated: 1459781760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orc_archer_0
+    21300002: orc_archer_1
+    21300004: orc_archer_2
+    21300006: orc_archer_3
+    21300008: orc_archer_4
+    21300010: orc_archer_5
+    21300012: orc_archer_6
+    21300014: orc_archer_7
+    21300016: orc_archer_8
+    21300018: orc_archer_9
+    21300020: orc_archer_10
+    21300022: orc_archer_11
+    21300024: orc_archer_12
+    21300026: orc_archer_13
+    21300028: orc_archer_14
+    21300030: orc_archer_15
+    21300032: orc_archer_16
+    21300034: orc_archer_17
+    21300036: orc_archer_18
+    21300038: orc_archer_19
+    21300040: orc_archer_20
+    21300042: orc_archer_21
+    21300044: orc_archer_22
+    21300046: orc_archer_23
+    21300048: orc_archer_24
+    21300050: orc_archer_25
+    21300052: orc_archer_26
+    21300054: orc_archer_27
+    21300056: orc_archer_28
+    21300058: orc_archer_29
+    21300060: orc_archer_30
+    21300062: orc_archer_31
+    21300064: orc_archer_32
+    21300066: orc_archer_33
+    21300068: orc_archer_34
+    21300070: orc_archer_35
+    21300072: orc_archer_36
+    21300074: orc_archer_37
+    21300076: orc_archer_38
+    21300078: orc_archer_39
+    21300080: orc_archer_40
+    21300082: orc_archer_41
+    21300084: orc_archer_42
+    21300086: orc_archer_43
+    21300088: orc_archer_44
+    21300090: orc_archer_45
+    21300092: orc_archer_46
+    21300094: orc_archer_47
+    21300096: orc_archer_48
+    21300098: orc_archer_49
+    21300100: orc_archer_50
+    21300102: orc_archer_51
+    21300104: orc_archer_52
+    21300106: orc_archer_53
+    21300108: orc_archer_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: orc_archer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 89}
+        - {x: -28, y: 89}
+        - {x: -33, y: 72}
+        - {x: -33, y: 4}
+        - {x: -24, y: 4}
+        - {x: -13, y: 7}
+        - {x: -9, y: 11}
+        - {x: -9, y: 15}
+        - {x: -8, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: 2}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 33, y: 44}
+        - {x: 33, y: 57}
+    - name: orc_archer_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 305
+        width: 72
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 90}
+        - {x: -29, y: 90}
+        - {x: -36, y: 56}
+        - {x: -36, y: 3}
+        - {x: -27, y: 4}
+        - {x: -16, y: 7}
+        - {x: -12, y: 11}
+        - {x: -12, y: 15}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 3, y: 0}
+        - {x: 27, y: 21}
+        - {x: 36, y: 34}
+        - {x: 36, y: 82}
+    - name: orc_archer_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 304
+        width: 72
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 91}
+        - {x: -36, y: 65}
+        - {x: -36, y: 5}
+        - {x: -34, y: 4}
+        - {x: -27, y: 4}
+        - {x: -16, y: 7}
+        - {x: -12, y: 11}
+        - {x: -12, y: 15}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 17, y: 0}
+        - {x: 36, y: 43}
+        - {x: 36, y: 80}
+        - {x: 15, y: 91}
+    - name: orc_archer_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 303
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 92}
+        - {x: -36, y: 74}
+        - {x: -36, y: 0}
+        - {x: -26, y: 0}
+        - {x: -16, y: 7}
+        - {x: -12, y: 11}
+        - {x: -12, y: 15}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 4, y: 0}
+        - {x: 36, y: 40}
+        - {x: 36, y: 68}
+        - {x: 19, y: 92}
+    - name: orc_archer_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 304
+        width: 72
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 72}
+        - {x: 6, y: 91}
+        - {x: 1, y: 80}
+        - {x: 1, y: 76}
+        - {x: 1, y: 77}
+        - {x: -2, y: 85}
+        - {x: -11, y: 91}
+        - {x: -27, y: 91}
+        - {x: -36, y: 63}
+        - {x: -36, y: 5}
+        - {x: -34, y: 4}
+        - {x: -27, y: 4}
+        - {x: -16, y: 7}
+        - {x: -12, y: 11}
+        - {x: -12, y: 15}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 2}
+        - {x: 35, y: 38}
+        - {x: 36, y: 43}
+    - name: orc_archer_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 305
+        width: 72
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 90}
+        - {x: -29, y: 90}
+        - {x: -36, y: 56}
+        - {x: -36, y: 3}
+        - {x: -27, y: 4}
+        - {x: -16, y: 7}
+        - {x: -12, y: 11}
+        - {x: -12, y: 15}
+        - {x: -11, y: 12}
+        - {x: -13, y: 9}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 3, y: 0}
+        - {x: 27, y: 21}
+        - {x: 36, y: 34}
+        - {x: 36, y: 82}
+    - name: orc_archer_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 305
+        width: 62
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 20}
+        - {x: -25, y: 0}
+        - {x: 26, y: 0}
+        - {x: 31, y: 3}
+        - {x: 31, y: 52}
+        - {x: 20, y: 81}
+        - {x: 11, y: 90}
+        - {x: -12, y: 90}
+        - {x: -31, y: 71}
+    - name: orc_archer_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 304
+        width: 62
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 91}
+        - {x: -31, y: 64}
+        - {x: -31, y: 29}
+        - {x: -16, y: 0}
+        - {x: 24, y: 0}
+        - {x: 31, y: 5}
+        - {x: 31, y: 59}
+        - {x: 27, y: 75}
+        - {x: 14, y: 89}
+        - {x: 12, y: 91}
+    - name: orc_archer_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 303
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 92}
+        - {x: -31, y: 71}
+        - {x: -31, y: 25}
+        - {x: -6, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 92}
+    - name: orc_archer_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 302
+        width: 63
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 93}
+        - {x: -4.5, y: 93}
+        - {x: -31.5, y: 77}
+        - {x: -31.5, y: 37}
+        - {x: -8.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 26.5, y: 1}
+        - {x: 31.5, y: 8}
+        - {x: 31.5, y: 77}
+        - {x: 30.5, y: 87}
+    - name: orc_archer_10
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 303
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 92}
+        - {x: -31, y: 71}
+        - {x: -31, y: 25}
+        - {x: -6, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 92}
+    - name: orc_archer_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 62
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 91}
+        - {x: -31, y: 64}
+        - {x: -31, y: 29}
+        - {x: -16, y: 0}
+        - {x: 24, y: 0}
+        - {x: 31, y: 5}
+        - {x: 31, y: 59}
+        - {x: 27, y: 75}
+        - {x: 14, y: 89}
+        - {x: 12, y: 91}
+    - name: orc_archer_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 215
+        width: 70
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 84}
+        - {x: -35, y: 0}
+        - {x: 19, y: 0}
+        - {x: 35, y: 31}
+        - {x: 35, y: 52}
+        - {x: 19, y: 84}
+    - name: orc_archer_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 214
+        width: 70
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 0}
+        - {x: 18, y: 0}
+        - {x: 35, y: 26}
+        - {x: 35, y: 68}
+        - {x: 9, y: 85}
+        - {x: -25, y: 85}
+        - {x: -35, y: 34}
+        - {x: -35, y: 0}
+        - {x: -17, y: 0}
+        - {x: -13, y: 4}
+        - {x: -5, y: 15}
+        - {x: -6, y: 6}
+    - name: orc_archer_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 219
+        width: 69
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 77}
+        - {x: -2.5, y: 80}
+        - {x: -27.5, y: 80}
+        - {x: -34.5, y: 60}
+        - {x: -34.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 34.5, y: 26}
+        - {x: 34.5, y: 54}
+    - name: orc_archer_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 211
+        width: 71
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 88}
+        - {x: -35.5, y: 61}
+        - {x: -35.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 14.5, y: 1}
+        - {x: 35.5, y: 39}
+        - {x: 35.5, y: 83}
+        - {x: 27.5, y: 88}
+    - name: orc_archer_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 209
+        width: 70
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 86}
+        - {x: -2, y: 82}
+        - {x: -3, y: 79}
+        - {x: -3, y: 75}
+        - {x: -3, y: 76}
+        - {x: -7, y: 84}
+        - {x: -12, y: 89}
+        - {x: -14, y: 90}
+        - {x: -35, y: 90}
+        - {x: -35, y: 0}
+        - {x: 2, y: 0}
+        - {x: 19, y: 3}
+        - {x: 35, y: 43}
+        - {x: 35, y: 75}
+        - {x: 10, y: 83}
+    - name: orc_archer_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 210
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 83}
+        - {x: -2, y: 89}
+        - {x: -33, y: 89}
+        - {x: -33, y: 11}
+        - {x: -30, y: 0}
+        - {x: -2, y: 0}
+        - {x: 4, y: 3}
+        - {x: 32, y: 33}
+        - {x: 33, y: 39}
+        - {x: 33, y: 63}
+      - - {x: 19, y: 13}
+        - {x: 22, y: 14}
+        - {x: 22, y: 17}
+        - {x: 19, y: 18}
+        - {x: 17, y: 16}
+    - name: orc_archer_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 208
+        width: 66
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 91}
+        - {x: -33, y: 71}
+        - {x: -33, y: 13}
+        - {x: -13, y: 0}
+        - {x: 29, y: 0}
+        - {x: 33, y: 13}
+        - {x: 33, y: 64}
+        - {x: 11, y: 91}
+    - name: orc_archer_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 210
+        width: 61
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 89}
+        - {x: -30.5, y: 62}
+        - {x: -30.5, y: 23}
+        - {x: -13.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 30.5, y: 23}
+        - {x: 30.5, y: 59}
+        - {x: 18.5, y: 89}
+    - name: orc_archer_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 213
+        width: 62
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 86}
+        - {x: -31, y: 65}
+        - {x: -31, y: 18}
+        - {x: -26, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 84}
+        - {x: 16, y: 86}
+    - name: orc_archer_21
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 214
+        width: 63
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 85}
+        - {x: -6.5, y: 85}
+        - {x: -31.5, y: 48}
+        - {x: -31.5, y: 6}
+        - {x: -30.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 25.5, y: 1}
+        - {x: 24.5, y: 22}
+        - {x: 31.5, y: 40}
+        - {x: 31.5, y: 52}
+    - name: orc_archer_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 85}
+        - {x: -31, y: 72}
+        - {x: -31, y: 0}
+        - {x: -10, y: 0}
+        - {x: -6, y: 4}
+        - {x: -4, y: 10}
+        - {x: 0, y: 10}
+        - {x: 1, y: 11}
+        - {x: 3, y: 11}
+        - {x: -1, y: 10}
+        - {x: -4, y: 6}
+        - {x: -4, y: 4}
+        - {x: 0, y: 0}
+        - {x: 24, y: 0}
+        - {x: 31, y: 9}
+        - {x: 31, y: 57}
+        - {x: 5, y: 85}
+    - name: orc_archer_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 111
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 88}
+        - {x: 14, y: 92}
+        - {x: -8, y: 92}
+        - {x: -31, y: 60}
+        - {x: -31, y: 41}
+        - {x: -15, y: 0}
+        - {x: 8, y: 0}
+        - {x: 26, y: 23}
+        - {x: 31, y: 26}
+        - {x: 31, y: 58}
+      - - {x: -10, y: 88}
+        - {x: -7, y: 89}
+        - {x: -7, y: 92}
+        - {x: -11, y: 92}
+        - {x: -12, y: 91}
+    - name: orc_archer_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 118
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 85}
+        - {x: -24.5, y: 78}
+        - {x: -24.5, y: 25}
+        - {x: -18.5, y: 12}
+        - {x: 1.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 24.5, y: 81}
+        - {x: 12.5, y: 85}
+    - name: orc_archer_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 114
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 89}
+        - {x: -24.5, y: 81}
+        - {x: -24.5, y: 24}
+        - {x: -5.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 24.5, y: 1}
+        - {x: 24.5, y: 86}
+        - {x: 14.5, y: 89}
+    - name: orc_archer_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 90}
+        - {x: -25, y: 82}
+        - {x: -25, y: 30}
+        - {x: -4, y: 0}
+        - {x: 25, y: 0}
+        - {x: 25, y: 87}
+        - {x: 18, y: 90}
+    - name: orc_archer_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 90}
+        - {x: -25, y: 79}
+        - {x: -25, y: 42}
+        - {x: -17, y: 16}
+        - {x: 0, y: 0}
+        - {x: 20, y: 0}
+        - {x: 25, y: 2}
+        - {x: 25, y: 84}
+        - {x: 9, y: 90}
+    - name: orc_archer_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 114
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 89}
+        - {x: -25.5, y: 80}
+        - {x: -25.5, y: 17}
+        - {x: -13.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 16.5, y: 4}
+        - {x: 25.5, y: 14}
+        - {x: 25.5, y: 80}
+        - {x: 12.5, y: 89}
+    - name: orc_archer_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 114
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 89}
+        - {x: -25, y: 82}
+        - {x: -25, y: 41}
+        - {x: -24, y: 35}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 14, y: 0}
+        - {x: 25, y: 8}
+        - {x: 25, y: 82}
+        - {x: 15, y: 89}
+    - name: orc_archer_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 114
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 89}
+        - {x: -25, y: 82}
+        - {x: -25, y: 41}
+        - {x: -24, y: 35}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 14, y: 0}
+        - {x: 25, y: 8}
+        - {x: 25, y: 82}
+        - {x: 15, y: 89}
+    - name: orc_archer_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 114
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 89}
+        - {x: -25, y: 82}
+        - {x: -25, y: 41}
+        - {x: -24, y: 35}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 14, y: 0}
+        - {x: 25, y: 8}
+        - {x: 25, y: 82}
+        - {x: 15, y: 89}
+    - name: orc_archer_32
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 115
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 87}
+        - {x: 10.5, y: 88}
+        - {x: -25.5, y: 88}
+        - {x: -25.5, y: 23}
+        - {x: -10.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 25.5, y: 8}
+        - {x: 25.5, y: 77}
+        - {x: 24.5, y: 80}
+    - name: orc_archer_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 114
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 89}
+        - {x: -24.5, y: 75}
+        - {x: -24.5, y: 26}
+        - {x: -14.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 24.5, y: 82}
+        - {x: 17.5, y: 89}
+    - name: orc_archer_34
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 109
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 94}
+        - {x: -24.5, y: 85}
+        - {x: -24.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 24.5, y: 82}
+        - {x: 14.5, y: 94}
+    - name: orc_archer_35
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 110
+        width: 55
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 3}
+        - {x: 21.5, y: 3}
+        - {x: 26.5, y: 6}
+        - {x: 27.5, y: 9}
+        - {x: 27.5, y: 73}
+        - {x: 18.5, y: 93}
+        - {x: -15.5, y: 93}
+        - {x: -27.5, y: 88}
+        - {x: -27.5, y: 5}
+        - {x: -26.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 6.5, y: 2}
+        - {x: 6.5, y: 10}
+        - {x: 6.5, y: 9}
+    - name: orc_archer_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 58
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 2}
+        - {x: 20, y: 0}
+        - {x: 24, y: 0}
+        - {x: 29, y: 2}
+        - {x: 29, y: 81}
+        - {x: 25, y: 93}
+        - {x: -23, y: 93}
+        - {x: -29, y: 82}
+        - {x: -29, y: 35}
+        - {x: -22, y: 5}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 2}
+        - {x: 5, y: 10}
+        - {x: 6, y: 7}
+    - name: orc_archer_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 59
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 8}
+        - {x: -0.5, y: 5}
+        - {x: -1.5, y: 2}
+        - {x: -0.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 7}
+        - {x: 19.5, y: 8}
+      - - {x: -24.5, y: 3}
+        - {x: -21.5, y: 4}
+        - {x: -21.5, y: 7}
+        - {x: -24.5, y: 8}
+        - {x: -26.5, y: 6}
+      - - {x: -29.5, y: 103}
+        - {x: -29.5, y: 15}
+        - {x: -8.5, y: 13}
+        - {x: -4.5, y: 17}
+        - {x: 9.5, y: 9}
+        - {x: 29.5, y: 9}
+        - {x: 29.5, y: 82}
+        - {x: 10.5, y: 103}
+    - name: orc_archer_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 7}
+        - {x: -31, y: 7}
+        - {x: -31, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 1}
+        - {x: 5, y: 4}
+      - - {x: 10, y: 7}
+        - {x: 8, y: 6}
+        - {x: 7, y: 5}
+        - {x: 7, y: 1}
+        - {x: 8, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 5}
+        - {x: 24, y: 7}
+      - - {x: -23, y: 102}
+        - {x: -29, y: 100}
+        - {x: -31, y: 85}
+        - {x: -31, y: 10}
+        - {x: 31, y: 10}
+        - {x: 31, y: 79}
+        - {x: 18, y: 102}
+    - name: orc_archer_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 2}
+        - {x: -30, y: 0}
+        - {x: -24, y: 0}
+        - {x: -24, y: 3}
+        - {x: -26, y: 5}
+        - {x: -27, y: 5}
+      - - {x: -21, y: 2}
+        - {x: -21, y: 1}
+        - {x: -20, y: 0}
+        - {x: -17, y: 0}
+        - {x: -15, y: 2}
+        - {x: -15, y: 4}
+        - {x: -18, y: 5}
+      - - {x: 20, y: 0}
+        - {x: 29, y: 0}
+        - {x: 29, y: 3}
+        - {x: 28, y: 5}
+        - {x: 23, y: 5}
+        - {x: 20, y: 4}
+      - - {x: -19, y: 100}
+        - {x: -30, y: 98}
+        - {x: -30, y: 19}
+        - {x: -28, y: 17}
+        - {x: -17, y: 12}
+        - {x: -10, y: 13}
+        - {x: -6, y: 17}
+        - {x: 9, y: 8}
+        - {x: 30, y: 8}
+        - {x: 30, y: 79}
+        - {x: 10, y: 100}
+    - name: orc_archer_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 74
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 103}
+        - {x: -37, y: 88}
+        - {x: -37, y: 60}
+        - {x: -33, y: 41}
+        - {x: -28, y: 38}
+        - {x: -25, y: 39}
+        - {x: -24, y: 44}
+        - {x: -22, y: 44}
+        - {x: -25, y: 40}
+        - {x: -25, y: 38}
+        - {x: -27, y: 38}
+        - {x: -36, y: 17}
+        - {x: -21, y: 5}
+        - {x: -7, y: 0}
+        - {x: 26, y: 0}
+        - {x: 26, y: 76}
+        - {x: 9, y: 103}
+      - - {x: -34, y: 2}
+        - {x: -34, y: 5}
+        - {x: -37, y: 6}
+        - {x: -37, y: 1}
+      - - {x: -25, y: 2}
+        - {x: -22, y: 3}
+        - {x: -22, y: 6}
+        - {x: -25, y: 7}
+        - {x: -27, y: 5}
+      - - {x: 26, y: 83}
+        - {x: 25, y: 80}
+        - {x: 25, y: 66}
+        - {x: 30, y: 65}
+        - {x: 37, y: 65}
+        - {x: 37, y: 81}
+        - {x: 35, y: 83}
+    - name: orc_archer_41
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 25
+        width: 54
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 81}
+        - {x: -13, y: 81}
+        - {x: -27, y: 70}
+        - {x: -27, y: 4}
+        - {x: -12, y: 0}
+        - {x: 23, y: 0}
+        - {x: 27, y: 22}
+        - {x: 27, y: 76}
+        - {x: 22, y: 78}
+    - name: orc_archer_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 47
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 6}
+        - {x: -15.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 91}
+        - {x: -9.5, y: 91}
+        - {x: -23.5, y: 76}
+    - name: orc_archer_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 59
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 36}
+        - {x: -29.5, y: 12}
+        - {x: -16.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 6}
+        - {x: -17.5, y: 36}
+    - name: orc_archer_44
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 21
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 85}
+        - {x: -24.5, y: 76}
+        - {x: -24.5, y: 1}
+        - {x: -22.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 24.5, y: 7}
+        - {x: 24.5, y: 48}
+        - {x: 17.5, y: 73}
+        - {x: -6.5, y: 85}
+    - name: orc_archer_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 51
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: -0.11764845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 61.470665}
+        - {x: -12, y: 61.470665}
+        - {x: -31, y: 53.470665}
+        - {x: -31, y: 10.470665}
+        - {x: -20, y: 6.470665}
+        - {x: 3, y: 6.470665}
+        - {x: 30, y: 20.470665}
+        - {x: 31, y: 25.470665}
+        - {x: 31, y: 53.470665}
+    - name: orc_archer_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 90
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_47
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 60
+        width: 11
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 87
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_49
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 14
+        width: 47
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 92}
+        - {x: -16.5, y: 92}
+        - {x: -23.5, y: 86}
+        - {x: -23.5, y: 3}
+        - {x: -19.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 23.5, y: 17}
+        - {x: 23.5, y: 50}
+        - {x: 8.5, y: 84}
+    - name: orc_archer_50
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 64
+        width: 56
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 42}
+        - {x: -28, y: 2}
+        - {x: -20, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 33}
+        - {x: 20, y: 42}
+    - name: orc_archer_51
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 83
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: orc_archer_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 41
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

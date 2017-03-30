@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 199d4305829b8dd4380d8a6b14e5cd20
+timeCreated: 1463495268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Labyrinth Productions_Goblin Archer sheet_0
+    21300002: Labyrinth Productions_Goblin Archer sheet_1
+    21300004: Labyrinth Productions_Goblin Archer sheet_2
+    21300006: Labyrinth Productions_Goblin Archer sheet_3
+    21300008: Labyrinth Productions_Goblin Archer sheet_4
+    21300010: Labyrinth Productions_Goblin Archer sheet_5
+    21300012: Labyrinth Productions_Goblin Archer sheet_6
+    21300014: Labyrinth Productions_Goblin Archer sheet_7
+    21300016: Labyrinth Productions_Goblin Archer sheet_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Labyrinth Productions_Goblin Archer sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1516
+        width: 358
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 341}
+        - {x: -61, y: 341}
+        - {x: -99, y: 335}
+        - {x: -84, y: 193}
+        - {x: -179, y: 179}
+        - {x: -179, y: 134}
+        - {x: -175, y: 133}
+        - {x: -172, y: 134}
+        - {x: -66, y: 60}
+        - {x: -26, y: 0}
+        - {x: 6, y: 0}
+        - {x: 58, y: 2}
+        - {x: 65, y: 8}
+        - {x: 65, y: 20}
+        - {x: 81, y: 0}
+        - {x: 179, y: 0}
+        - {x: 179, y: 41}
+        - {x: 78, y: 303}
+      - - {x: -63, y: 170}
+        - {x: -60, y: 171}
+        - {x: -60, y: 174}
+        - {x: -63, y: 175}
+        - {x: -65, y: 173}
+    - name: Labyrinth Productions_Goblin Archer sheet_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1506
+        width: 358
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 328}
+        - {x: 23, y: 342}
+        - {x: -61, y: 342}
+        - {x: -87, y: 317}
+        - {x: -70, y: 197}
+        - {x: -179, y: 171}
+        - {x: -179, y: 121}
+        - {x: -67, y: 56}
+        - {x: -26, y: 0}
+        - {x: 6, y: 0}
+        - {x: 58, y: 2}
+        - {x: 65, y: 8}
+        - {x: 65, y: 20}
+        - {x: 69, y: 81}
+        - {x: 81, y: 0}
+        - {x: 179, y: 0}
+        - {x: 179, y: 37}
+        - {x: 102, y: 201}
+    - name: Labyrinth Productions_Goblin Archer sheet_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1470
+        width: 296
+        height: 475
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 290}
+        - {x: 146, y: 323}
+        - {x: 148, y: 339}
+        - {x: 148, y: 360}
+        - {x: 103, y: 410}
+        - {x: 3, y: 475}
+        - {x: -76, y: 475}
+        - {x: -81, y: 474}
+        - {x: -148, y: 388}
+        - {x: -148, y: 317}
+        - {x: -105, y: 235}
+        - {x: -102, y: 229}
+        - {x: -90, y: 234}
+        - {x: -44, y: 163}
+        - {x: -85, y: 23}
+        - {x: -85, y: 8}
+        - {x: -81, y: 4}
+        - {x: -76, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 56}
+        - {x: 58, y: 10}
+        - {x: 84, y: 0}
+        - {x: 147, y: 0}
+        - {x: 148, y: 3}
+        - {x: 148, y: 23}
+        - {x: 81, y: 142}
+    - name: Labyrinth Productions_Goblin Archer sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1469
+        width: 296
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: 278}
+        - {x: 148, y: 330}
+        - {x: 148, y: 367}
+        - {x: 113, y: 364}
+        - {x: 108, y: 413}
+        - {x: 16, y: 478}
+        - {x: -41, y: 478}
+        - {x: -148, y: 417}
+        - {x: -148, y: 311}
+        - {x: -138, y: 265}
+        - {x: -107, y: 236}
+        - {x: -95, y: 232}
+        - {x: -71, y: 256}
+        - {x: -44, y: 165}
+        - {x: -85, y: 25}
+        - {x: -85, y: 10}
+        - {x: -81, y: 6}
+        - {x: -74, y: 0}
+        - {x: 7, y: 2}
+        - {x: 18, y: 58}
+        - {x: 48, y: 3}
+        - {x: 67, y: 0}
+        - {x: 148, y: 0}
+        - {x: 148, y: 30}
+        - {x: 81, y: 145}
+      - - {x: -48, y: 289}
+        - {x: -61, y: 277}
+        - {x: -61, y: 268}
+        - {x: -53, y: 268}
+        - {x: -46, y: 270}
+        - {x: -37, y: 286}
+        - {x: -37, y: 289}
+    - name: Labyrinth Productions_Goblin Archer sheet_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1103
+        width: 293
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: 96}
+        - {x: 104.5, y: 99}
+        - {x: 105.5, y: 102}
+        - {x: 104.5, y: 99}
+        - {x: 104.5, y: 95}
+        - {x: 115.5, y: 91}
+        - {x: 146.5, y: 116}
+        - {x: 146.5, y: 165}
+        - {x: 99.5, y: 322}
+        - {x: 88.5, y: 333}
+        - {x: -73.5, y: 333}
+        - {x: -104.5, y: 326}
+        - {x: -146.5, y: 185}
+        - {x: -146.5, y: 109}
+        - {x: -47.5, y: 0}
+        - {x: 146.5, y: 0}
+        - {x: 146.5, y: 20}
+        - {x: 114.5, y: 55}
+      - - {x: 114.5, y: 66}
+        - {x: 114.5, y: 65}
+        - {x: 117.5, y: 62}
+        - {x: 120.5, y: 63}
+        - {x: 120.5, y: 66}
+        - {x: 118.5, y: 68}
+        - {x: 116.5, y: 68}
+      - - {x: 89.5, y: 98}
+        - {x: 92.5, y: 94}
+        - {x: 95.5, y: 95}
+        - {x: 95.5, y: 99}
+        - {x: 92.5, y: 103}
+        - {x: 89.5, y: 102}
+      - - {x: -32.5, y: 157}
+        - {x: -29.5, y: 158}
+        - {x: -29.5, y: 161}
+        - {x: -32.5, y: 162}
+        - {x: -34.5, y: 160}
+      - - {x: -84.5, y: 159}
+        - {x: -81.5, y: 160}
+        - {x: -81.5, y: 163}
+        - {x: -84.5, y: 164}
+        - {x: -86.5, y: 162}
+      - - {x: -35.5, y: 166}
+        - {x: -32.5, y: 162}
+        - {x: -29.5, y: 162}
+        - {x: -25.5, y: 166}
+        - {x: -26.5, y: 169}
+        - {x: -34.5, y: 169}
+    - name: Labyrinth Productions_Goblin Archer sheet_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1103
+        width: 366
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 0}
+        - {x: 183, y: 0}
+        - {x: 183, y: 22}
+        - {x: 107, y: 133}
+        - {x: 71, y: 292}
+        - {x: 46, y: 333}
+        - {x: -110, y: 333}
+        - {x: -141, y: 326}
+        - {x: -86, y: 171}
+        - {x: -183, y: 164}
+        - {x: -183, y: 123}
+        - {x: -179, y: 122}
+        - {x: -56, y: 0}
+        - {x: 36, y: 0}
+        - {x: 41, y: 4}
+        - {x: 41, y: 16}
+        - {x: 54, y: 71}
+      - - {x: 53, y: 98}
+        - {x: 56, y: 94}
+        - {x: 59, y: 95}
+        - {x: 59, y: 99}
+        - {x: 56, y: 103}
+        - {x: 53, y: 102}
+      - - {x: -69, y: 157}
+        - {x: -66, y: 158}
+        - {x: -66, y: 161}
+        - {x: -69, y: 162}
+        - {x: -71, y: 160}
+      - - {x: -121, y: 159}
+        - {x: -118, y: 160}
+        - {x: -118, y: 163}
+        - {x: -121, y: 164}
+        - {x: -123, y: 162}
+      - - {x: -72, y: 166}
+        - {x: -69, y: 162}
+        - {x: -66, y: 162}
+        - {x: -62, y: 166}
+        - {x: -63, y: 169}
+        - {x: -71, y: 169}
+    - name: Labyrinth Productions_Goblin Archer sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1101
+        width: 318
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: 300}
+        - {x: 78, y: 300}
+        - {x: -98, y: 198}
+        - {x: -159, y: 167}
+        - {x: -159, y: 130}
+        - {x: -152, y: 101}
+        - {x: -131, y: 75}
+        - {x: -109, y: 81}
+        - {x: -145, y: 30}
+        - {x: -133, y: 12}
+        - {x: -109, y: 0}
+        - {x: -42, y: 0}
+        - {x: 105, y: 90}
+        - {x: 159, y: 176}
+        - {x: 159, y: 271}
+    - name: Labyrinth Productions_Goblin Archer sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1087
+        width: 408
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 92}
+        - {x: -32, y: 142}
+        - {x: -79, y: 142}
+        - {x: -98, y: 133}
+        - {x: -131, y: 79}
+        - {x: -191, y: 125}
+        - {x: -204, y: 122}
+        - {x: -204, y: 42}
+        - {x: -121, y: 21}
+        - {x: -76, y: 0}
+        - {x: 130, y: 0}
+        - {x: 204, y: 28}
+        - {x: 204, y: 125}
+        - {x: 80, y: 134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

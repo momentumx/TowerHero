@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AnnihilatorOverride
+  m_Controller: {fileID: 9100000, guid: a9af7172e99cc9f4f97fb594e9a601c0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 772d952bc32f7794d8de3891fdcf1828, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f218e1d87a9bd48458545e28968bf576, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c8f6bf36a040ca4fa217cd0d4f61bad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ded331efd2a7c6442a810335b0e13a88, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e73e628ae45a9b14cb340c31dfa1ac77, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b89e0d8b3afec24780506fbd1bd2e20, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f02ff3f56b836e64a9e1ec287383e3d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a3c63463afa2b9c49a28c372397a9d69, type: 2}

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 3ebec0c57bb7afc48b088dd91d656038
+timeCreated: 1463334695
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: medieval Chat Bubble_0
+    21300002: medieval Chat Bubble_1
+    21300004: medieval Chat Bubble_2
+    21300006: medieval Chat Bubble_3
+    21300008: medieval Chat Bubble_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: medieval Chat Bubble_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 245
+        width: 193
+        height: 195
+      alignment: 9
+      pivot: {x: 0.15960225, y: 0.011020836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153.19676, y: 192.85094}
+        - {x: -11.803238, y: 192.85094}
+        - {x: -30.803238, y: 180.85094}
+        - {x: -30.803238, y: 72.85094}
+        - {x: -27.803238, y: 67.85094}
+        - {x: -7.803238, y: -2.149063}
+        - {x: 21.196762, y: -2.149063}
+        - {x: 149.19676, y: 60.850937}
+        - {x: 162.19676, y: 110.85094}
+        - {x: 162.19676, y: 178.85094}
+      - - {x: 49.196762, y: -0.14906311}
+        - {x: 52.196762, y: 0.8509369}
+        - {x: 52.196762, y: 3.850937}
+        - {x: 49.196762, y: 4.850937}
+        - {x: 47.196762, y: 2.850937}
+    - name: medieval Chat Bubble_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 231
+        width: 187
+        height: 209
+      alignment: 9
+      pivot: {x: 0.36392325, y: 0.020565197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.05365, y: 204.70187}
+        - {x: -68.05365, y: 183.70187}
+        - {x: -66.05365, y: 119.70187}
+        - {x: -64.05365, y: 117.70187}
+        - {x: -61.05365, y: 117.70187}
+        - {x: -63.05365, y: 117.70187}
+        - {x: -68.05365, y: 111.70187}
+        - {x: -68.05365, y: 91.70187}
+        - {x: -34.05365, y: 17.701874}
+        - {x: -23.05365, y: -4.298126}
+        - {x: 8.94635, y: -4.298126}
+        - {x: 104.94635, y: 27.701874}
+        - {x: 118.94635, y: 80.70187}
+        - {x: 118.94635, y: 204.70187}
+      - - {x: 21.94635, y: -4.298126}
+        - {x: 25.94635, y: -4.298126}
+        - {x: 25.94635, y: -1.2981262}
+        - {x: 22.94635, y: -0.29812622}
+        - {x: 20.94635, y: -2.2981262}
+      - - {x: 35.94635, y: 6.701874}
+        - {x: 38.94635, y: 7.701874}
+        - {x: 38.94635, y: 10.701874}
+        - {x: 35.94635, y: 11.701874}
+        - {x: 33.94635, y: 9.701874}
+      - - {x: -50.05365, y: 14.701874}
+        - {x: -47.05365, y: 15.701874}
+        - {x: -47.05365, y: 18.701874}
+        - {x: -50.05365, y: 19.701874}
+        - {x: -52.05365, y: 17.701874}
+    - name: medieval Chat Bubble_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 42
+        width: 176
+        height: 191
+      alignment: 9
+      pivot: {x: 0.22793089, y: 0.007501013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.88416, y: 179.5673}
+        - {x: -40.115837, y: 179.5673}
+        - {x: -40.115837, y: 58.567307}
+        - {x: -37.115837, y: 21.567307}
+        - {x: -22.115837, y: -1.4326935}
+        - {x: 6.884163, y: -1.4326935}
+        - {x: 33.884163, y: 24.567307}
+        - {x: 127.88416, y: 34.567307}
+        - {x: 135.88416, y: 38.567307}
+        - {x: 135.88416, y: 171.5673}
+      - - {x: 100.88416, y: 185.5673}
+        - {x: 100.88416, y: 184.5673}
+        - {x: 102.88416, y: 182.5673}
+        - {x: 103.88416, y: 182.5673}
+        - {x: 106.88416, y: 185.5673}
+        - {x: 106.88416, y: 187.5673}
+        - {x: 103.88416, y: 188.5673}
+      - - {x: 90.88416, y: 185.5673}
+        - {x: 93.88416, y: 187.5673}
+        - {x: 92.88416, y: 189.5673}
+        - {x: 87.88416, y: 189.5673}
+        - {x: 87.88416, y: 188.5673}
+    - name: medieval Chat Bubble_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 20
+        width: 222
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5550132, y: 0.1125699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.78708, y: -14.639679}
+        - {x: 86.78708, y: -20.639679}
+        - {x: 86.78708, y: -22.639679}
+        - {x: 87.78708, y: -23.639679}
+        - {x: 90.78708, y: -23.639679}
+        - {x: 94.78708, y: -21.639679}
+        - {x: 95.78708, y: -18.639679}
+        - {x: 95.78708, y: -17.639679}
+        - {x: 92.78708, y: -14.639679}
+      - - {x: -108.21292, y: 186.36032}
+        - {x: -123.21292, y: 161.36032}
+        - {x: -123.21292, y: 39.36032}
+        - {x: -49.21292, y: -3.639679}
+        - {x: 19.787079, y: -3.639679}
+        - {x: 72.78708, y: 41.36032}
+        - {x: 72.78708, y: 172.36032}
+        - {x: 55.78708, y: 186.36032}
+      - - {x: -117.21292, y: 181.36032}
+        - {x: -114.21292, y: 182.36032}
+        - {x: -114.21292, y: 185.36032}
+        - {x: -117.21292, y: 186.36032}
+        - {x: -119.21292, y: 184.36032}
+      - - {x: -94.21292, y: 181.36032}
+        - {x: -91.21292, y: 182.36032}
+        - {x: -91.21292, y: 185.36032}
+        - {x: -94.21292, y: 186.36032}
+        - {x: -96.21292, y: 184.36032}
+      - - {x: -28.212921, y: 182.36032}
+        - {x: -25.212921, y: 183.36032}
+        - {x: -25.212921, y: 186.36032}
+        - {x: -29.212921, y: 186.36032}
+        - {x: -30.212921, y: 185.36032}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

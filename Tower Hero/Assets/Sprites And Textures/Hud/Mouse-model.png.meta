@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 0f0da1887bfa0de4fb2eaef5e04b4356
+timeCreated: 1463419590
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mouse-model_0
+    21300002: Mouse-model_1
+    21300004: Mouse-model_2
+    21300006: Mouse-model_3
+    21300008: Mouse-model_4
+    21300010: Mouse-model_5
+    21300012: Mouse-model_6
+    21300014: Mouse-model_7
+    21300016: Mouse-model_8
+    21300018: Mouse-model_9
+    21300020: Mouse-model_10
+    21300022: Mouse-model_11
+    21300024: Mouse-model_12
+    21300026: Mouse-model_13
+    21300028: Mouse-model_14
+    21300030: Mouse-model_15
+    21300032: Mouse-model_16
+    21300034: Mouse-model_17
+    21300036: Mouse-model_18
+    21300038: Mouse-model_19
+    21300040: Mouse-model_20
+    21300042: Mouse-model_21
+    21300044: Mouse-model_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mouse-model_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 181
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: -102}
+        - {x: 90.5, y: -87}
+        - {x: 90.5, y: 123}
+        - {x: 70.5, y: 148}
+        - {x: 56.5, y: 152}
+        - {x: -52.5, y: 152}
+        - {x: -67.5, y: 147}
+        - {x: -83.5, y: 132}
+        - {x: -89.5, y: 119}
+        - {x: -90.5, y: 116}
+        - {x: -90.5, y: -88}
+        - {x: -86.5, y: -101}
+        - {x: -80.5, y: -113}
+        - {x: -60.5, y: -135}
+        - {x: -47.5, y: -143}
+        - {x: -34.5, y: -152}
+        - {x: 28.5, y: -152}
+        - {x: 33.5, y: -150}
+        - {x: 57.5, y: -137}
+        - {x: 70.5, y: -125}
+    - name: Mouse-model_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 46
+        width: 181
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: -100}
+        - {x: 90.5, y: -85}
+        - {x: 90.5, y: 116}
+        - {x: 81.5, y: 134}
+        - {x: 68.5, y: 146}
+        - {x: 53.5, y: 152}
+        - {x: -55.5, y: 152}
+        - {x: -72.5, y: 145}
+        - {x: -84.5, y: 129}
+        - {x: -90.5, y: 117}
+        - {x: -90.5, y: -90}
+        - {x: -88.5, y: -97}
+        - {x: -74.5, y: -121}
+        - {x: -56.5, y: -138}
+        - {x: -36.5, y: -152}
+        - {x: 28.5, y: -152}
+        - {x: 33.5, y: -150}
+        - {x: 57.5, y: -137}
+        - {x: 71.5, y: -124}
+    - name: Mouse-model_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 46
+        width: 182
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 104.5}
+        - {x: 85, y: 119.5}
+        - {x: 69, y: 135.5}
+        - {x: 49, y: 143.5}
+        - {x: 29, y: 144.5}
+        - {x: 6, y: 162.5}
+        - {x: -8, y: 162.5}
+        - {x: -31, y: 147.5}
+        - {x: -73, y: 138.5}
+        - {x: -91, y: 111.5}
+        - {x: -91, y: -98.5}
+        - {x: -88, y: -108.5}
+        - {x: -77, y: -132.5}
+        - {x: -38, y: -161.5}
+        - {x: -35, y: -162.5}
+        - {x: 35, y: -162.5}
+        - {x: 62, y: -149.5}
+        - {x: 91, y: -108.5}
+    - name: Mouse-model_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 46
+        width: 181
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.5, y: -86}
+        - {x: 90.5, y: 118}
+        - {x: 85.5, y: 134}
+        - {x: 59.5, y: 152}
+        - {x: -56.5, y: 152}
+        - {x: -69.5, y: 147}
+        - {x: -88.5, y: 126}
+        - {x: -90.5, y: 117}
+        - {x: -90.5, y: -88}
+        - {x: -82.5, y: -109}
+        - {x: -72.5, y: -123}
+        - {x: -57.5, y: -137}
+        - {x: -35.5, y: -149}
+        - {x: -24.5, y: -152}
+        - {x: 29.5, y: -152}
+        - {x: 57.5, y: -139}
+        - {x: 72.5, y: -123}
+        - {x: 86.5, y: -103}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

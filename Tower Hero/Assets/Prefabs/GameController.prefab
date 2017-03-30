@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 489424}
+  - 114: {fileID: 11446102}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &489424
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100850}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 110.2, y: 0, z: 267.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11446102
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420bbe01b40b4d7478982b61c1db5989, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hazards:
+  - {fileID: 0}
+  - {fileID: 161872, guid: a53f62364cf366c49a031c0765bde049, type: 2}
+  bosses:
+  - {fileID: 102722, guid: 2088dcee4560988409a757a725ce8699, type: 2}
+  winmenu: {fileID: 0}
+  nextWave: {fileID: 8300000, guid: 90d3b207d51ba48f4a8879bcc1c27a17, type: 3}
+  spin: {fileID: 0}
+  startWait: 1
+  waveWait: 15
+  speed: 50
+  waveCount: {fileID: 0}
+  waveTimer: {fileID: 0}
+  completionTimeText: {fileID: 0}
+  manaLeftText: {fileID: 0}
+  enemiesKilledText: {fileID: 0}
+  accuracyText: {fileID: 0}
+  spawnIndicator: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100850}
+  m_IsPrefabParent: 1
